@@ -1,0 +1,39 @@
+/* PokemonDetails.css */
+
+.pokemon-card {
+    background-color: #fdfdfd;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.15);
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .pokemon-card h2 {
+    font-size: 1.8rem;
+    color: #ff6f91;
+  }
+  
+  .sprites img {
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    border: 2px solid #ff9671;
+    border-radius: 10px;
+  }
+  
+  .moves-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .moves-list li {
+    background-color: #ff9671;
+    color: white;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
